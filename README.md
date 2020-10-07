@@ -1,4 +1,4 @@
-# Using Google Maps inside Angular 9
+# Google Heatmaps inside Angular 9
 
 This project uses Angular version 9.1.4.
 
